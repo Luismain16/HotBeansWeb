@@ -7,6 +7,25 @@ body {
 
 }
 
+.content-div-bg {
+    background-color: #DEF2F1;
+    padding: 2em;
+    margin: 1em 0;
+    border: 1px solid #ccc;
+    background-image:url(pictures/hbw-background.png) ;
+}
+.p-aboutus {
+    background-color: #DEF2F1;
+    padding: 2em;
+    margin: 1em 0;
+    border: 1px solid #ccc;
+    font-size: 35px;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
 header {
     background-color: black;
     color: white;
