@@ -177,3 +177,19 @@ footer a:hover {
     cursor: pointer;
     border-radius: 20px;
 }
+/* job registration */
+
+.job-description-grid {
+    width: 85%;
+    margin: auto;
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+.item {
+    background-color: #2B7A78;
+    padding: 10px;
+
+}
